@@ -4,7 +4,7 @@
 
 ### Requisitos
 
-Esse projeto necessita da versão 3.6 do Python, a plataforma Anaconda e o software Jupyter Notebook com as seguintes biblitoecas para execução:
+Esse projeto necessita da versão 3.6 do Python, a plataforma Anaconda e o software Jupyter Notebook com as seguintes bibliotecas para execução:
 
 * Matplotlib
 * Numpy
@@ -15,7 +15,7 @@ Esse projeto necessita da versão 3.6 do Python, a plataforma Anaconda e o softw
 
 ### Instalação
 
- Após instalação do [Anaconda, Jupyter notebook e pip](https://paulovasconcellos.com.br/como-baixar-anaconda-31fd49c19bd8), as biblitoecas necessários para executar os programas necessitam ser instaladas. Para a instalação, execute:
+ Após instalação do [Anaconda, Jupyter notebook e pip](https://paulovasconcellos.com.br/como-baixar-anaconda-31fd49c19bd8), as bibliotecas necessários para executar os programas necessitam ser instaladas. Para a instalação, execute:
 
 
 ```
